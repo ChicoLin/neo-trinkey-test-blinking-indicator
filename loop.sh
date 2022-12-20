@@ -1,3 +1,5 @@
+#!/bin/bash 
+
 # script that prints the first two argument with 2.5 seconds of gap.
 
 for n in {1..5}
